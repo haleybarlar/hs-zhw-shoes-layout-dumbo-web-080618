@@ -45,3 +45,8 @@
   width: 33%;
   height: 100%;
 }
+
+.col-5 {
+  float: left;
+  width: 33%;
+}
